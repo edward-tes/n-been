@@ -1,1 +1,7 @@
-# yunke-server
+# n-been
+
+```
+yarn install 
+
+yarn start
+```
